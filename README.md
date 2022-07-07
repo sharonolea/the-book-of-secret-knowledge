@@ -35,7 +35,7 @@
 
 ****
 
-## :notebook_with_decorative_cover: &nbsp;What is it?
+## :notebook_with_decorative_cover: &nbsp;What is it? &nbsp
 
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 
